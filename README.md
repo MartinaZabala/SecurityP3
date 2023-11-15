@@ -11,7 +11,6 @@ Spring Security 6
 jsonwebtoken   
 ## Datos Académicos:
 
-<<<<<<< HEAD
 **Alumna** Martina Belén Zabala  
 **Cátedra de Programación III**   
  **Profesor:** Alberto Cortez
@@ -19,5 +18,3 @@ jsonwebtoken
 **Nombre del Alumno:** Martina Zabala
 
 
-Cátedra de Programación III - **Profesor:** Alberto Cortez
->>>>>>> a69ee7a2112218d0e35f1b85ec5eec5570609f8d
