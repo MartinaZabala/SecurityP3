@@ -8,6 +8,7 @@
 
 ## Datos Académicos:
 
-**Nombre del Alumno:** Luis Agustín Biritos
+**Nombre del Alumno:** Martina Zabala
+
 
 Cátedra de Programación III - **Profesor:** Alberto Cortez
